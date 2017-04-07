@@ -1,3 +1,6 @@
+Most information was taken from the following link: https://developers.google.com/vr/android/get-started
+
+
 HOW TO START YOUR OWN VR APP
  - Pretty simeple here, we just need to reference the Google vr api by adding the following to the gradle build file
 
